@@ -73,10 +73,12 @@ header{
 .mobile-menu-icon button{
     background:none;
     cursor: pointer;
+    border: none;
 }
 .mobile-menu-icon i{
     font-size: 2rem;
     color: #fff;
+    
 }
 .mobile-menu{
     display: none;
